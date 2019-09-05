@@ -10,8 +10,8 @@ import (
 
 	"github.com/ahume/go-github/github"
 
-	"github.com/ahume/github-deployment-resource"
-	"github.com/ahume/github-deployment-resource/fakes"
+	"github.com/loansnap/github-deployment-resource"
+	"github.com/loansnap/github-deployment-resource/fakes"
 )
 
 var _ = Describe("Deployment Out Command", func() {
