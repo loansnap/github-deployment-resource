@@ -10,7 +10,7 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/ahume/github-deployment-resource"
+	"github.com/loansnap/github-deployment-resource"
 )
 
 func file(path, contents string) {

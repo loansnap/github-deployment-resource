@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/ahume/github-deployment-resource",
+	"ImportPath": "github.com/loansnap/github-deployment-resource",
 	"GoVersion": "go1.7",
 	"GodepVersion": "v75",
 	"Deps": [

@@ -4,7 +4,7 @@ package fakes
 import (
 	"sync"
 
-	"github.com/ahume/github-deployment-resource"
+	"github.com/loansnap/github-deployment-resource"
 	"github.com/ahume/go-github/github"
 )
 
